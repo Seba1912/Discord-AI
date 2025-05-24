@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+pymongo
+googletrans==4.0.0rc1
+duckduckgo-search
+google-generativeai
